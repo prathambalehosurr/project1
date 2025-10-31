@@ -1,1 +1,1 @@
-# project1
+This is a todo list application
