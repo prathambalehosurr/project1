@@ -1,1 +1,1 @@
-This is a todo list application
+This is a todo list application on web
